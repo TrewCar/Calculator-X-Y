@@ -1,5 +1,7 @@
 # Calculator-X-Y
 
+![Иллюстрация к проекту](https://github.com/TrewCar/Calculator-X-Y/blob/main/WinFormsApp5_KDZLAaCF7a.png)
+
 Каждый символ или число должны бить через пробел
 
 примеры запиcей обычных арифметических знаков:
